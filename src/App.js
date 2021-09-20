@@ -33,6 +33,7 @@ const App = () => {
       <CharacterGrid isLoading={isLoading} items={items} />
     </div>
   )
+  
 }
 
 export default App
